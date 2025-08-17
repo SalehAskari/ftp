@@ -1,0 +1,10 @@
+PORT: 2121
+USER:
+download
+server
+new
+one.txt
+user_quota:
+saleh 37454
+narjes 3000
+komeil 10000
